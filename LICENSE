@@ -6,6 +6,29 @@ Copyright (c) 2021 Griggorii
 
 Only real technologies, not any fictional parasitic distributions support real technology investments and donate VISA 4817 7601 8112 4706
 
+Special speed fast mesa-opencl-icd_21.0.3-0ubuntu0.3.20.04.3_amd64.deb https://github.com/Griggorii/Mesa-13.0.4-xorg_Ubuntu_20.04_tar.xz_add_deb_package/releases/tag/deb site html web app fast resize page example youtube opencl license property
+
+libMesaOpenCL.so.1.0.0 size 24,2 MB (24 185 568 byte)
+
+md5 dde3b0bfc5dea81e86de7ea1fcdb684b
+
+sum 47625 23619
+
+b2 861ade64e656a3f09cab1ed8b7e6dc0b9b591de8a5618ecc4c3809ea7fc1d2f4e6d54b9f5fdb311556643fc6c2f1a418903e8ddad3db2dfe784ba4ed6b8896d5
+
+ck 1918394898 2418556
+
+sha e4e145af8c17d53ee49d028d111db89f5ae3e6e5
+
+sha1 e4e145af8c17d53ee49d028d111db89f5ae3e6e5
+
+sha224 a839b2ac53eb75fb183780842516f2f906e2bfa68b519b29052a7bc0
+
+sha256 c0e82e9969d79d01303b0609e9c8f02f190e53ce292aa35c36c7a48f6d9b6b6e
+
+sha384 09bae77e84fcda5d577f538aa69ac337e6683552feb4f35be79849340e5ad4ae5e2ab70ff65b438ff41cc8111eb12167
+
+sha512 40033734b33f2e51a8f199f2e7747ef1bba7bab202068a4d0f49bbe2b432e2dca380ef66bf95f204901d61068e99ef3c6a9e0df1786c08145633dd5cdee8a97b
 
 This license for each binary file x86_64-linux-gnu with its hash amount implies the following that you will use it for yourself for free, but if you decide to commercialize these binary files by selling TV set-top boxes based on it, phones, payment terminals, bank terminals and other equipment, including When selling software, you must invest at least one percent of the cost of any device using my build binaries.
 Test benchmark sudo update-initramfs -u -v time build new initramfs minimum time !
@@ -14,4 +37,3 @@ Test benchmark sudo update-initramfs -u -v time build new initramfs minimum time
 
 Данный видео драйвер интересен тем что в нвидиа-оптимус при наличии карточки интел и нвидиа выберет в сессии wayland драйвер llvmpipe за место Intel® Sandybridge Mobile при том что в таком совмещении не будет тиринга или какого либо замедления как пример у меня показало NVD7 / llvmpipe (LLVM 10.0.0, 256 bits) в иксовой же сессии показывает NVD7 / Intel® Sandybridge Mobile
 
-Special speed fast mesa-opencl-icd_21.0.3-0ubuntu0.3.20.04.3_amd64.deb https://github.com/Griggorii/Mesa-13.0.4-xorg_Ubuntu_20.04_tar.xz_add_deb_package/releases/tag/deb site html web app fast resize page example youtube opencl license property libMesaOpenCL.so.1.0.0 md5 dde3b0bfc5dea81e86de7ea1fcdb684b
