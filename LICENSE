@@ -2,9 +2,65 @@ MIT License
 
 Copyright (c) 2021 Griggorii
 
-                 amd64 build mesa-13.0.4 version 5 + variant manipulate mesa-opencl-icd ultra accelerate by griggorii 
+                        amd64 build mesa-13.0.4 version V15 ultra accelerate by griggorii | update replace old V7
 
 Only real technologies, not any fictional parasitic distributions support real technology investments and donate VISA 4817 7601 8112 4706
+
+This license for each binary file x86_64-linux-gnu with its hash amount implies the following that you will use it for yourself for free, but if you decide to commercialize these binary files by selling TV set-top boxes based on it, phones, payment terminals, bank terminals and other equipment, including When selling software, you must invest at least one percent of the cost of any device using my build binaries.
+Test benchmark sudo update-initramfs -u -v time build new initramfs minimum time !
+
+Данная лицензия на каждый бинарный фаил именно архитектуры x86_64-linux-gnu с его хеш суммой подразумевает следующее что вы его будете использовать для себя лично бесплатно , но если вы решили коммерциализировать данные бинарные фаилы продавая на основе него тв приставки , телефоны , терминалы оплаты , банковские терминалы и другое оборудование в том числе продавая программное обеспечение то вы должны инвестировать от одного процента от стоимости любого устройства или програмного софтварного комплекса использующего бинарные фаилы моего билда. Запрещается так же выкладывать на всех сайтах как в виде модулей , перепаковка в deb , rpm и другие форматы так и целиком кроме опубликования ссылки именно на прямого автора https://github.com/Griggorii/Mesa-13.0.4+xorg_Ubuntu_20.04 в связи с игнорированием интернет индустрией моих работ я не получаю ни каких донатных поощрений для дальнейшей разработки или же каких то подобных премиях , я думаю кроме меня пять лет никто бесплатно не работал и работать не будет по причинам "материального мира" данное описание посвящено вендорам и коллегам и крупным технологическим компаниям it гигантам по технологиям в том числе крупным мобильным вендорам , в случае не соблюдения требовании или же переименовании данных библиотек моя сторона будет подавать иск о возмещении "утерянных выгод" и заключения штрафного контракта в случае выдачи этих фаилов другими лицами именно по md5 сумме проданных третьими лицами как свои вендорам , по скольку я не могу еще пять лет работать бесплатно по причине материального мира в котором нету понятия "бесплатная покупка чего либо" в течении пяти лет я пока не получил что либо от каких либо вендоров или ит каких либо ответвлении технологических компаний и буду ждать письмо на griggorii@gmail.com.
+
+Данный видео драйвер интересен тем что в нвидиа-оптимус при наличии карточки интел и нвидиа выберет в сессии wayland драйвер llvmpipe за место Intel® Sandybridge Mobile при том что в таком совмещении не будет тиринга или какого либо замедления как пример у меня показало NVD7 / llvmpipe (LLVM 10.0.0, 256 bits) в иксовой же сессии показывает NVD7 / Intel® Sandybridge Mobile
+
+
+MD5
+
+/usr/lib/x86_64-linux-gnu/dri
+
+453f70bd52858c791e2c96650997c3d9 virtio_gpu_dri.so' 
+f501743c4acb67b5737bf0f64c8d78b1 radeon_dri.so
+1761c286431082cdd88ef93ab0ca6343 nouveau_drv_video.so
+
+/usr/lib/x86_64-linux-gnu/vdpau 
+
+34394a03ad103269ade549a7da973451 libvdpau_gallium.so.1.0.0
+e84b59856abcf36ff72bfb13972bb9be libvdpau_r300.so.1.0.0 libvdpau_r600.so.1.0.0 libvdpau_radeonsi.so.1.0.0 libvdpau_nouveau.so.1.0.0 libvdpau_radeonsi.so.1.0.0
+
+/usr/lib/x86_64-linux-gnu/gallium-pipe
+
+fe59e0cf57019b8bb836e33fc9ce15dc pipe_iris.so
+587b1d4edf7783e7793f6c61b2fa750a pipe_kmsro.so
+1ff77a426c33f28fa362fb18fbf69065 pipe_msm.so
+7063407c0a608fe6ad3ada78d5e488c4 pipe_nouveau.so
+b5f749c1cbcf5636698421d0f79ed92a pipe_r300.so
+b2561c0cc3dc607c37c9be596f015286 pipe_r600.so
+ecbfc76b4722b8827ab3748d0402606c pipe_radeonsi.so
+acd18c5018c051b340340c5db2c2c670 pipe_swrast.so
+f409d4a5be77bad99345b06fb9593898 pipe_vmwgfx.so
+
+/usr/lib/x86_64-linux-gnu/d3d
+
+1c42997294b97778d93c286ea6d2107c d3dadapter9.so.1.0.0
+
+/usr/lib/x86_64-linux-gnu
+
+dde3b0bfc5dea81e86de7ea1fcdb684b libMesaOpenCL.so.1.0.0
+d1c21ef356d6dc6aa27f64f36ec2bbc6 libglapi.so.0.0.0
+4e7bbb5c877bfb2b251be76d9fb3e7f1 libGLX_mesa.so.0.0.0
+7d77c71d3b84bf86fcfdebcb07efef24 libOSMesa.so.8.0.0
+116046bc4c417defd37abca9c8c67f63 libxatracker.so.2.5.0
+6ce1cbd81b68f59ac8a0611ce8352580 libgbm.so.1.0.0
+88605ce2e30cfa1be9180eb4adde04ce libEGL_mesa.so.0.0.0
+dd8448adf6b80d3ede62f9a333e5e469 libVkLayer_MESA_device_select.so
+487deafa8222ac0d1e02b84911c1039f libVkLayer_MESA_overlay.so
+03cfcd0405e052ad5688449f1e4ac92f libvulkan_broadcom.so
+6636cf158e5e782e62348ec99342fb22 libvulkan_freedreno.so
+f08328aaafc099ebfa039c504975b22e libvulkan_intel.so
+a6c8563937f13c6a24b743a5352a90cd libvulkan_lvp.so
+1ebd51c7a9a375d0fa0a17d475f920b3 libvulkan_radeon.so
+
+
 
 Special speed fast mesa-opencl-icd_21.0.3-0ubuntu0.3.20.04.3_amd64.deb https://github.com/Griggorii/Mesa-13.0.4-xorg_Ubuntu_20.04_tar.xz_add_deb_package/releases/tag/deb site html web app fast resize page example youtube opencl license property
 
@@ -29,11 +85,3 @@ sha256 c0e82e9969d79d01303b0609e9c8f02f190e53ce292aa35c36c7a48f6d9b6b6e
 sha384 09bae77e84fcda5d577f538aa69ac337e6683552feb4f35be79849340e5ad4ae5e2ab70ff65b438ff41cc8111eb12167
 
 sha512 40033734b33f2e51a8f199f2e7747ef1bba7bab202068a4d0f49bbe2b432e2dca380ef66bf95f204901d61068e99ef3c6a9e0df1786c08145633dd5cdee8a97b
-
-This license for each binary file x86_64-linux-gnu with its hash amount implies the following that you will use it for yourself for free, but if you decide to commercialize these binary files by selling TV set-top boxes based on it, phones, payment terminals, bank terminals and other equipment, including When selling software, you must invest at least one percent of the cost of any device using my build binaries.
-Test benchmark sudo update-initramfs -u -v time build new initramfs minimum time !
-
-Данная лицензия на каждый бинарный фаил именно архитектуры x86_64-linux-gnu с его хеш суммой подразумевает следующее что вы его будете использовать для себя лично бесплатно , но если вы решили коммерциализировать данные бинарные фаилы продавая на основе него тв приставки , телефоны , терминалы оплаты , банковские терминалы и другое оборудование в том числе продавая программное обеспечение то вы должны инвестировать от одного процента от стоимости любого устройства или програмного софтварного комплекса использующего бинарные фаилы моего билда. Запрещается так же выкладывать на всех сайтах как в виде модулей , перепаковка в deb , rpm и другие форматы так и целиком кроме опубликования ссылки именно на прямого автора https://github.com/Griggorii/Mesa-13.0.4+xorg_Ubuntu_20.04 в связи с игнорированием интернет индустрией моих работ я не получаю ни каких донатных поощрений для дальнейшей разработки или же каких то подобных премиях , я думаю кроме меня пять лет никто бесплатно не работал и работать не будет по причинам "материального мира" данное описание посвящено вендорам и коллегам и крупным технологическим компаниям it гигантам по технологиям в том числе крупным мобильным вендорам , в случае не соблюдения требовании или же переименовании данных библиотек моя сторона будет подавать иск о возмещении "утерянных выгод" и заключения штрафного контракта в случае выдачи этих фаилов другими лицами именно по md5 сумме проданных третьими лицами как свои вендорам , по скольку я не могу еще пять лет работать бесплатно по причине материального мира в котором нету понятия "бесплатная покупка чего либо" в течении пяти лет я пока не получил что либо от каких либо вендоров или ит каких либо ответвлении технологических компаний и буду ждать письмо на griggorii@gmail.com.
-
-Данный видео драйвер интересен тем что в нвидиа-оптимус при наличии карточки интел и нвидиа выберет в сессии wayland драйвер llvmpipe за место Intel® Sandybridge Mobile при том что в таком совмещении не будет тиринга или какого либо замедления как пример у меня показало NVD7 / llvmpipe (LLVM 10.0.0, 256 bits) в иксовой же сессии показывает NVD7 / Intel® Sandybridge Mobile
-
