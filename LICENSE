@@ -60,8 +60,6 @@ f08328aaafc099ebfa039c504975b22e libvulkan_intel.so
 a6c8563937f13c6a24b743a5352a90cd libvulkan_lvp.so
 1ebd51c7a9a375d0fa0a17d475f920b3 libvulkan_radeon.so
 
-
-
 Special speed fast mesa-opencl-icd_21.0.3-0ubuntu0.3.20.04.3_amd64.deb https://github.com/Griggorii/Mesa-13.0.4-xorg_Ubuntu_20.04_tar.xz_add_deb_package/releases/tag/deb site html web app fast resize page example youtube opencl license property
 
                           libMesaOpenCL.so.1.0.0 size 24,2 MB (24 185 568 byte)
